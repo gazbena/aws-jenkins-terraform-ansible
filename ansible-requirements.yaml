@@ -1,0 +1,6 @@
+# Ansible collections and roles requirements for the project - ansible-requirements.yml
+---
+collections:
+  - cloud.terraform
+  - community.general
+roles:
